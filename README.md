@@ -13,3 +13,4 @@ A virtual pet that grows with my GitHub contributions.
 ## Status
 
 Currently learning Git and GitHub.
+Learning Git is part of building GitHub Pet!
