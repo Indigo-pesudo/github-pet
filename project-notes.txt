@@ -1,0 +1,3 @@
+My GitHub Pet project
+
+Learning Git and GitHub.
